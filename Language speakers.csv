@@ -1,0 +1,237 @@
+rank,language,langage_code,primary_country,total_countries,speakers_millions,serialid
+1,'Chinese ',' zho ','China',31,1213,1
+,'Chinese Gan ',' gan ','China',1,20.6,2
+,'Chinese Hakka ',' hak ','China',17,30,3
+,'Chinese Huizhou ',' czh ','China',1,4.6,4
+,'Chinese Jinyu ',' cjy ','China',1,45,5
+,'Chinese Mandarin ',' cmn ','China',20,845,6
+,'Chinese Min Bei ',' mnp ','China',2,10.3,7
+,'Chinese Min Dong ',' cdo ','China',7,9.1,8
+,'Chinese Min Nan ',' nan ','China',10,47.3,9
+,'Chinese Min Zhong ',' czo ','China',1,3.1,10
+,'Chinese Wu ',' wuu ','China',2,77.2,11
+,'Chinese Xiang ',' hsn ','China',2,36,12
+,'Chinese Yue ',' yue ','China',20,55.5,13
+2,'Spanish ',' spa ','Spain',44,329,14
+3,'English ',' eng ','United Kingdom',112,328,15
+4,'Arabic ',' ara ','Saudi Arabia',57,221,16
+,'Arabic Algerian Spoken ',' arq ','Algeria',6,22.4,17
+,'Arabic Egyptian Spoken ',' arz ','Egypt',10,54,18
+,'Arabic Gulf Spoken ',' afb ','Iraq',10,3.6,19
+,'Arabic Hijazi Spoken ',' acw ','Saudi Arabia',2,6,20
+,'Arabic Libyan Spoken ',' ayl ','Libya',3,4.3,21
+,'Arabic Mesopotamian Spoken ',' acm ','Iraq',5,15.1,22
+,'Arabic Moroccan Spoken ',' ary ','Morocco',10,21,23
+,'Arabic Najdi Spoken ',' ars ','Saudi Arabia',7,10,24
+,'Arabic North Levantine Spoken ',' apc ','Syria',16,14.4,25
+,'Arabic North Mesopotamian Spoken ',' ayp ','Iraq',4,6.3,26
+,'Arabic Sa''idi Spoken ',' aec ','Egypt',1,19,27
+,'Arabic Sanaani Spoken ',' ayn ','Yemen',1,7.6,28
+,'Arabic South Levantine Spoken ',' ajp ','Jordan',9,6.2,29
+,'Arabic Sudanese Spoken ',' apd ','Sudan',6,16.8,30
+,'Arabic Ta''izzi-Adeni Spoken ',' acq ','Yemen',8,7.1,31
+,'Arabic Tunisian Spoken ',' aeb ','Tunisia',5,9.4,32
+5,'Hindi ',' hin ','India',20,182,33
+6,'Bengali ',' ben ','Bangladesh',10,181,34
+7,'Portuguese ',' por ','Portugal',37,178,35
+8,'Russian ',' rus ','Russian Federation',33,144,36
+9,'Japanese ',' jpn ','Japan',25,122,37
+10,'German Standard ',' deu ','Germany',43,90.3,38
+11,'Javanese ',' jav ','Indonesia',5,84.6,39
+12,'Lahnda ',' lah ','Pakistan',8,78.3,40
+,'Panjabi Western ',' pnb ','Pakistan',7,62.6,41
+,'Seraiki ',' skr ','Pakistan',3,13.8,42
+13,'Telugu ',' tel ','India',10,69.8,43
+14,'Vietnamese ',' vie ','Viet Nam',23,68.6,44
+15,'Marathi ',' mar ','India',5,68.1,45
+16,'French ',' fra ','France',60,67.8,46
+17,'Korean ',' kor ','Korea South',33,66.3,47
+18,'Tamil ',' tam ','India',17,65.7,48
+19,'Italian ',' ita ','Italy',34,61.7,49
+20,'Urdu ',' urd ','Pakistan',23,60.6,50
+21,'Turkish ',' tur ','Turkey',36,50.8,51
+22,'Gujarati ',' guj ','India',20,46.5,52
+23,'Polish ',' pol ','Poland',23,40,53
+24,'Malay ',' msa ','Malaysia',14,39.1,54
+,'Malay ',' zlm ','Malaysia',7,10.3,55
+25,'Bhojpuri ',' bho ','India',3,38.5,56
+26,'Awadhi ',' awa ','India',2,38.3,57
+27,'Ukrainian ',' ukr ','Ukraine',27,37,58
+28,'Malayalam ',' mal ','India',11,35.9,59
+29,'Kannada ',' kan ','India',3,35.3,60
+30,'Maithili ',' mai ','India',2,34.7,61
+31,'Sunda ',' sun ','Indonesia',1,34,62
+32,'Burmese ',' mya ','Myanmar',5,32.3,63
+33,'Oriya ',' ori ','India',2,31.7,64
+34,'Persian ',' fas ','Iran',29,31.4,65
+,'Farsi Eastern ',' prs ','Afghanistan',3,7.6,66
+,'Farsi Western ',' pes ','Iran',27,23.9,67
+35,'Marwari ',' mwr ','India',3,31.1,68
+,'Dhundari ',' dhd ','India',1,9,69
+,'Marwari ',' rwr ','India',3,5.6,70
+,'Merwari ',' wry ','India',1,3.9,71
+,'Shekhawati ',' swv ','India',1,3,72
+36,'Panjabi Eastern ',' pan ','India',12,28.2,73
+37,'Filipino ',' fil ','Philippines',1,25,74
+38,'Hausa ',' hau ','Nigeria',13,25,75
+39,'Tagalog ',' tgl ','Philippines',8,23.9,76
+40,'Romanian ',' ron ','Romania',20,23.4,77
+41,'Indonesian ',' ind ','Indonesia',6,23.2,78
+42,'Dutch ',' nld ','Netherlands',12,21.7,79
+43,'Sindhi ',' snd ','Pakistan',8,21.4,80
+44,'Thai ',' tha ','Thailand',5,20.4,81
+45,'Pushto ',' pus ','Pakistan',9,20.3,82
+,'Pashto Central ',' pst ','Pakistan',1,7.9,83
+,'Pashto Northern ',' pbu ','Pakistan',7,9.7,84
+46,'Uzbek ',' uzb ','Uzbekistan',14,20.3,85
+,'Uzbek Northern ',' uzn ','Uzbekistan',12,18.8,86
+47,'Rajasthani ',' raj ','India',3,20,87
+,'Hadothi ',' hoj ','India',1,4.7,88
+,'Malvi ',' mup ','India',1,10.4,89
+48,'Yoruba ',' yor ','Nigeria',6,19.4,90
+49,'Azerbaijani ',' aze ','Iran',17,19.1,91
+,'Azerbaijani North ',' azj ','Azerbaijan',10,7.5,92
+,'Azerbaijani South ',' azb ','Iran',8,12.6,93
+50,'Igbo ',' ibo ','Nigeria',1,18,94
+51,'Amharic ',' amh ','Ethiopia',6,17.5,95
+52,'Chhattisgarhi ',' hne ','India',1,17.5,96
+53,'Oromo ',' orm ','Ethiopia',4,17.3,97
+,'Oromo Borana-Arsi-Guji ',' gax ','Ethiopia',3,3.8,98
+,'Oromo Eastern ',' hae ','Ethiopia',1,4.5,99
+,'Oromo West Central ',' gaz ','Ethiopia',2,8.9,100
+54,'Assamese ',' asm ','India',4,16.8,101
+55,'Serbo-Croatian ',' hbs ','Serbia',28,16.4,102
+,'Croatian ',' hrv ','Croatia',14,5.5,103
+,'Serbian ',' srp ','Serbia',22,7,104
+56,'Kurdish ',' kur ','Iraq',32,16,105
+,'Kurdish Central ',' ckb ','Iraq',2,3.7,106
+,'Kurdish Northern ',' kmr ','Turkey',32,9.3,107
+,'Kurdish Southern ',' sdh ','Iran',2,3,108
+57,'Cebuano ',' ceb ','Philippines',2,15.8,109
+58,'Sinhala ',' sin ','Sri Lanka',8,15.6,110
+59,'Rangpuri ',' rkt ','Bangladesh',2,15,111
+60,'Thai Northeastern ',' tts ','Thailand',1,15,112
+61,'Zhuang ',' zha ','China',2,14.9,113
+62,'Malagasy ',' mlg ','Madagascar',4,14.7,114
+,'Malagasy Plateau ',' plt ','Madagascar',4,7.5,115
+63,'Nepali ',' nep ','Nepal',5,13.9,116
+64,'Somali ',' som ','Somalia',13,13.9,117
+65,'Khmer Central ',' khm ','Cambodia',7,13.6,118
+66,'Madura ',' mad ','Indonesia',2,13.6,119
+67,'Bavarian ',' bar ','Austria',4,13.3,120
+68,'Greek ',' ell ','Greece',38,13.1,121
+69,'Chittagonian ',' ctg ','Bangladesh',1,13,122
+70,'Haryanvi ',' bgc ','India',1,13,123
+71,'Magahi ',' mag ','India',1,13,124
+72,'Deccan ',' dcc ','India',1,12.8,125
+73,'Hungarian ',' hun ','Hungary',14,12.5,126
+74,'Fulah ',' ful ','Senegal',19,12.3,127
+,'Pulaar ',' fuc ','Senegal',6,3.7,128
+75,'Catalan-Valencian-Balear ',' cat ','Spain',18,11.5,129
+76,'Shona ',' sna ','Zimbabwe',5,10.8,130
+77,'Zulu ',' zul ','South Africa',6,10.3,131
+78,'Sylheti ',' syl ','Bangladesh',10,10.3,132
+79,'Quechua ',' que ','Peru',6,10.1,133
+,'Quechua South Bolivian ',' quh ','Bolivia',2,3.6,134
+80,'Kanauji ',' bjj ','India',1,9.5,135
+81,'Czech ',' ces ','Czech Republic',12,9.5,136
+82,'Lombard ',' lmo ','Italy',3,9.1,137
+83,'Bulgarian ',' bul ','Bulgaria',16,9.1,138
+84,'Uyghur ',' uig ','China',15,8.8,139
+85,'Nyanja ',' nya ','Malawi',6,8.7,140
+86,'Belarusan ',' bel ','Belarus',16,8.6,141
+87,'Kazakh ',' kaz ','Kazakhstan',14,8.3,142
+88,'Swedish ',' swe ','Sweden',8,8.3,143
+89,'Akan ',' aka ','Ghana',1,8.3,144
+90,'Xhosa ',' xho ','South Africa',3,7.8,145
+91,'Bagheli ',' bfy ','India',2,7.8,146
+92,'Haitian ',' hat ','Haiti',10,7.7,147
+93,'Konkani ',' kok ','India',4,7.6,148
+,'Konkani ',' knn ','India',2,4,149
+,'Konkani Goan ',' gom ','India',3,3.6,150
+94,'Rwanda ',' kin ','Rwanda',4,7.5,151
+95,'Gikuyu ',' kik ','Kenya',1,7.2,152
+96,'Napoletano-Calabrese ',' nap ','Italy',1,7,153
+97,'Baluchi ',' bal ','Pakistan',8,7,154
+,'Balochi Southern ',' bcc ','Pakistan',4,3.4,155
+98,'Ilocano ',' ilo ','Philippines',2,7,156
+99,'Varhadi-Nagpuri ',' vah ','India',1,7,157
+100,'Turkmen ',' tuk ','Turkmenistan',14,6.6,158
+101,'Tatar ',' tat ','Russian Federation',19,6.5,159
+102,'German Swiss ',' gsw ','Switzerland',5,6.5,160
+103,'Hmong ',' hmn ','China',10,6.5,161
+104,'Armenian ',' hye ','Armenia',30,6.4,162
+105,'Luba-Kasai ',' lua ','Democratic Republic of the Congo',1,6.3,163
+106,'Venetian ',' vec ','Italy',4,6.2,164
+107,'Santali ',' sat ','India',4,6.2,165
+108,'Vlaams ',' vls ','Belgium',5,6.1,166
+109,'Sotho Southern ',' sot ','Lesotho',4,6,167
+110,'Thai Northern ',' nod ','Thailand',2,6,168
+111,'Lambadi ',' lmn ','India',1,6,169
+112,'Kongo ',' kon ','Democratic Republic of the Congo',3,6,170
+,'Koongo ',' kng ','Democratic Republic of the Congo',3,5,171
+113,'Albanian ',' sqi ','Albania',18,5.8,172
+,'Albanian Gheg ',' aln ','Serbia',9,4.2,173
+,'Albanian Tosk ',' als ','Albania',10,3,174
+114,'Tigrigna ',' tir ','Ethiopia',6,5.8,175
+115,'Hiligaynon ',' hil ','Philippines',2,5.8,176
+116,'Mongolian ',' mon ','Mongolia',6,5.7,177
+,'Mongolian Peripheral ',' mvf ','China',2,3.4,178
+117,'Kashmiri ',' kas ','India',4,5.6,179
+118,'Danish ',' dan ','Denmark',8,5.6,180
+119,'Minangkabau ',' min ','Indonesia',1,5.5,181
+120,'Sukuma ',' suk ','Tanzania',1,5.4,182
+121,'Hebrew ',' heb ','Israel',8,5.3,183
+122,'MÃ²orÃ© ',' mos ','Burkina Faso',7,5.1,184
+123,'Slovak ',' slk ','Slovakia',12,5,185
+124,'Finnish ',' fin ','Finland',7,5,186
+125,'Mewati ',' wtm ','India',1,5,187
+126,'Afrikaans ',' afr ','South Africa',12,4.9,188
+127,'Guarani ',' grn ','Paraguay',5,4.9,189
+,'GuaranÃ­ Paraguayan ',' gug ','Paraguay',2,4.8,190
+128,'MainfrÃ¤nkisch ',' vmf ','Germany',1,4.9,191
+129,'Rundi ',' run ','Burundi',4,4.9,192
+130,'Bikol ',' bik ','Philippines',1,4.8,193
+131,'Sicilian ',' scn ','Italy',1,4.8,194
+132,'Norwegian ',' nor ','Norway',1,4.6,195
+133,'Mandingo ',' man ','Guinea',8,4.5,196
+134,'Tswana ',' tsn ','Botswana',4,4.5,197
+135,'Thai Southern ',' sou ','Thailand',1,4.5,198
+136,'Tajiki ',' tgk ','Tajikistan',8,4.5,199
+137,'Dholuo ',' luo ','Kenya',2,4.4,200
+138,'Georgian ',' kat ','Georgia',13,4.3,201
+139,'Kituba ',' ktu ','Democratic Republic of the Congo',1,4.2,202
+140,'Ganda ',' lug ','Uganda',1,4.1,203
+141,'Sotho Northern ',' nso ','South Africa',2,4.1,204
+142,'Umbundu ',' umb ','Angola',2,4,205
+143,'Wolof ',' wol ','Senegal',6,4,206
+144,'Kamba ',' kam ','Kenya',1,4,207
+145,'Kanuri ',' kau ','Nigeria',6,4,208
+,'Kanuri Central ',' knc ','Nigeria',6,3.2,209
+146,'Domari ',' rmt ','Iran',14,4,210
+147,'Musi ',' mui ','Indonesia',1,3.9,211
+148,'Dogri ',' doi ','India',1,3.8,212
+149,'Mina ',' myi ','India',1,3.8,213
+150,'Tsonga ',' tso ','South Africa',4,3.7,214
+151,'Bemba ',' bem ','Zambia',4,3.6,215
+152,'Banjar ',' bjn ','Indonesia',2,3.5,216
+153,'Aceh ',' ace ','Indonesia',1,3.5,217
+154,'Bugis ',' bug ','Indonesia',2,3.5,218
+155,'Bali ',' ban ','Indonesia',1,3.3,219
+156,'Shan ',' shn ','Myanmar',3,3.3,220
+157,'Gilaki ',' glk ','Iran',1,3.3,221
+158,'Mazanderani ',' mzn ','Iran',1,3.3,222
+159,'Jamaican Creole English ',' jam ','Jamaica',7,3.2,223
+160,'Galician ',' glg ','Spain',2,3.2,224
+161,'Lao ',' lao ','Laos',7,3.2,225
+162,'Lithuanian ',' lit ','Lithuania',19,3.2,226
+163,'Tamazight Central Atlas ',' tzm ','Morocco',3,3.2,227
+164,'Kabyle ',' kab ','Algeria',3,3.1,228
+165,'Hassaniyya ',' mey ','Mauritania',8,3.1,229
+166,'ÃwÃ© ',' ewe ','Ghana',2,3.1,230
+167,'Piemontese ',' pms ','Italy',3,3.1,231
+168,'Makhuwa ',' vmw ','Mozambique',1,3.1,232
+169,'Godwari ',' gdx ','India',1,3,233
+170,'Hunsrik ',' hrx ','Brazil',5,3,234
+171,'Kimbundu ',' kmb ','Angola',1,3,235
+172,'Tachelhit ',' shi ','Morocco',3,3,236
